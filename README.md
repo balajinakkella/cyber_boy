@@ -1,2 +1,3 @@
-cyber_boy
+Algorithms
 =========
+Various algorithms implemented in C/C++ 
